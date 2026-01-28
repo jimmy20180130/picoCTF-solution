@@ -1,4 +1,4 @@
-# Riddle Registry
+# Log Hunt
 
 ## 題目描述 (Description)
 

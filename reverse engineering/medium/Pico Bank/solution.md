@@ -1,4 +1,4 @@
-# Riddle Registry
+# Pico Bank
 
 ## 題目描述 (Description)
 
