@@ -15,7 +15,7 @@ Find the pass, get the flag. Check out this [file](https://challenge-files.picoc
 
 ## 解題思路 (Solution Walkthrough)
 
-1.  **第一步**：用 jadx 分析 zero.apk，發現取得 flag 的函式在這裡
+1.  **第一步**：用 jadx 分析 one.apk，發現取得 flag 的函式在這裡
    ```Java
    /* loaded from: classes.dex */
    public class FlagstaffHill {
