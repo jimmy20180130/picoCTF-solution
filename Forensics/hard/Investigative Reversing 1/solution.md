@@ -67,6 +67,7 @@ We have recovered a [binary](https://challenge-files.picoctf.net/c_fickle_tempes
    ```
 
 2.  **第二步**：由上述程式碼可得知這個 mystery 的用途在於把 flag.txt 的前 26 bytes，規則如下
+   
    | 原始位元組 (Index) | 運算方式         | 寫入目標檔案 |
    | ------------------ | ---------------- | ------------ |
    | ptr[0]             | +21              | mystery2.png |
