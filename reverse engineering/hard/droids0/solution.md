@@ -27,7 +27,7 @@ Where do droid logs go. Check out this [file](https://challenge-files.picoctf.ne
    ```
 
 2.  **第二步**：接著用 ida pro 分析 `libhellojni.so`，發現底下這段，它的邏輯是
-   先取得使用者輸入的字串 (`v8`)，如果 dill(v8) 的結果與 1 進行位元與運算後不為 0 (即結果為真)，程式就會繼續跑下去，不過 dill 永遠都會回傳 1 就是了。取的 `v8` 以後程式會呼叫 `marjoram`
+   先取得使用者輸入的字串 (`v8`)，如果 dill(v8) 的結果與 1 進行位元與運算後不為 0 (即結果為真)，程式就會繼續跑下去，不過 dill 永遠都會回傳 1 就是了。取得 `v8` 以後程式會呼叫 `marjoram`
    ```C
    __int64 __fastcall Java_com_hellocmu_picoctf_FlagstaffHill_paprika(__int64 a1, __int64 a2, __int64 a3)
    {
