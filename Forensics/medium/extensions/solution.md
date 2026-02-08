@@ -1,4 +1,4 @@
-# Crack the Power
+# extensions
 
 ## 題目描述 (Description)
 

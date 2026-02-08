@@ -1,4 +1,4 @@
-# Crack the Power
+# Easy1
 
 ## 題目描述 (Description)
 
