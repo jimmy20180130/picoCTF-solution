@@ -37,7 +37,6 @@ Find the pass, get the flag. Check out this [file](https://challenge-files.picoc
 2.  **第二步**：根據程式碼可以得到正確的密碼 `dismass.ogg.weatherwax.aching.nitt.garlick`
 
 3.  **第三步**：打開 android studio 的模擬器，裝好 two.apk 後輸入密碼 (`dismass.ogg.weatherwax.aching.nitt.garlick`) 後即可取得 flag
-   ![輸入密碼畫面](image-1.png)
 
 ## Flag
 
