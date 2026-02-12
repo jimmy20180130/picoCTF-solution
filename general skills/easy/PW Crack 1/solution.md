@@ -17,9 +17,9 @@ Download the password checker [here](https://artifacts.picoctf.net/c/11/level1.p
 ## 解題思路 (Solution Walkthrough)
 
 1.  **第一步**：看完level1.py之後，第19行有一個if迴圈檢測輸入是否為：
-```text
-1e1a
-```
+   ```text
+   1e1a
+   ```
     執行level1.py，輸入1e1a後，即可得到flag。
 
 

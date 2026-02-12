@@ -18,9 +18,9 @@ There are 7 potential passwords with 1 being correct. You can find these by exam
 ## 解題思路 (Solution Walkthrough)
 
 1.  **第一步**：看完level3.py之後，最後有一個list包含了7個密碼：
-```text
-pos_pw_list = ["8799", "d3ab", "1ea2", "acaf", "2295", "a9de", "6f3d"]
-```
+   ```text
+   pos_pw_list = ["8799", "d3ab", "1ea2", "acaf", "2295", "a9de", "6f3d"]
+   ```
     當然我們可以一個一個慢慢輸入，最多只要嘗試七次，但能交給電腦就盡量交給電腦，所以我稍微改寫了程式碼(見solution.py)。
     執行solution.py後，即可得到flag。
 

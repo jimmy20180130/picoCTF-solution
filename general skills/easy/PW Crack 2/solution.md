@@ -15,13 +15,13 @@ Download the password checker [here](https://artifacts.picoctf.net/c/14/level2.p
 ## 解題思路 (Solution Walkthrough)
 
 1.  **第一步**：看完level2.py之後，第18行有一個if迴圈檢測輸入是否為：
-```text
-chr(0x34) + chr(0x65) + chr(0x63) + chr(0x39)
-```
+    ```text
+    chr(0x34) + chr(0x65) + chr(0x63) + chr(0x39)
+    ```
     用ascii轉換後，可得：
-```text
-4ec9
-```
+    ```text
+    4ec9
+    ```
     執行level2.py，輸入4ec9後，即可得到flag。
 
 

@@ -17,10 +17,9 @@ Get the flag from [TXT](https://challenge-files.picoctf.net/c_fickle_tempest/31f
 1.  **第一步**：下載flag.txt，無法看出內容是什麼，只看到亂碼。
     但能在其中看到IDHR、sRGB、gAMA，能推斷出他大概是PNG檔。
     打開powershell之後把flag.txt改為flag.png即可，指令如下：
-```text
-Rename-Item mystery.txt mystery.png
-
-```
+    ```text
+    Rename-Item mystery.txt mystery.png
+    ```
     打開圖片，即可得到flag。
 
 
