@@ -6,10 +6,9 @@ example description
 
 ### 提示 (Hints)
 
-1. Hint 1
+1. Hint 1  
     This is hint 1
-    
-2. Hint 2
+2. Hint 2  
     This is hint 2
 
 ## 解題思路 (Solution Walkthrough)
