@@ -18,4 +18,4 @@ for i in range(3):
     
     io.send(payload)
 
-io.interactive()
+print(io.recvall().decode())
