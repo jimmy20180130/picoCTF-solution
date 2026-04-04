@@ -12,7 +12,7 @@ Download the Rust code [here](https://challenge-files.picoctf.net/c_verbal_sleep
 
 ## 解題思路 (Solution Walkthrough)
 
-1. **第一步**：可以看到 `party_foul` 原本被宣告為不可變（預設 let），但我們在 decrypt 函式中需要修改它的內容，因此必須將其宣告為 let mut
+1. **第一步**：可以看到 `party_foul` 原本被宣告為不可變（預設 let），但我們在 decrypt 函式中需要修改它的內容，因此必須將其宣告為 `let mut`
 
 2. **第二步**：`decrypt` 函式的參數定義必須從 `&String` 改為 `&mut String`，這樣函式內部的 `push_str` 才有權限更動該字串
 
