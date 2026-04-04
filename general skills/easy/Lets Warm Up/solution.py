@@ -1,0 +1,1 @@
+print(bytes.fromhex('70').decode())
