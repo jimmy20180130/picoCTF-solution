@@ -14,13 +14,13 @@ I have built my own Git server with my own rules!
 1. **第一步**：先使用 `git clone ssh://git@foggy-cliff.picoctf.net:59430/git/challenge.git` 來 clone repo 到本地
 
 2. **第二步**：看了 `README.md` 以後發現要使用管理員帳號才能得到 flag，於是使用以下指令更改名稱以及 email
-   
+
     ```text
     git config user.name "root"
     git config user.email "root@picoctf"
     ```
 
-3. **第三步**：push 一個假設 flag.txt，即可取得 flag
+3. **第三步**：push 一個假的 flag.txt，即可取得 flag
 
     ```text
     ❯ git push origin master
