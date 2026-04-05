@@ -14,7 +14,7 @@ Download this file [here](https://artifacts.picoctf.net/c_titan/129/unknown.zip)
 
 ## 解題思路 (Solution Walkthrough)
 
-1. **第一步**：使用 `exiftool ukn_reality.png` 即可看到 base64 編碼的 flag
+1. **第一步**：使用 `exiftool ukn_reality.jpg` 即可看到 base64 編碼的 flag
 
     ```text
     ExifTool Version Number         : 13.50
