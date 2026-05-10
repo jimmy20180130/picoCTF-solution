@@ -3,7 +3,7 @@
 ## 題目描述 (Description)
 
 This vault uses ASCII encoding for the password.
-The source code for this vault is here: [VaultDoor3.java](https://challenge-files.picoctf.net/c_fickle_tempest/5c887bc56d0c788895c28b80d7b702aff7b889fc7d8edf83fe0dc25c8aa11756/VaultDoor4.java)
+The source code for this vault is here: [VaultDoor4.java](https://challenge-files.picoctf.net/c_fickle_tempest/5c887bc56d0c788895c28b80d7b702aff7b889fc7d8edf83fe0dc25c8aa11756/VaultDoor4.java)
 
 ### 提示 (Hints)
 
