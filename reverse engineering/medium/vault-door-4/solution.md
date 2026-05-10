@@ -15,7 +15,7 @@ The source code for this vault is here: [VaultDoor4.java](https://challenge-file
 ## 解題思路 (Solution Walkthrough)
 
 1.  **第一步**：
-    ```text
+    ```java
     public boolean checkPassword(String password) {
         byte[] passBytes = password.getBytes();
         byte[] myBytes = {

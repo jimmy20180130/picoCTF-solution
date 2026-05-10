@@ -13,7 +13,7 @@ The source code for this vault is here: [VaultDoor3.java](https://challenge-file
 ## 解題思路 (Solution Walkthrough)
 
 1.  **第一步**：
-    ```text
+    ```java
     char[] buffer = new char[32];
         int i;
         for (i=0; i<8; i++) {
