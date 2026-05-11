@@ -5,7 +5,7 @@
 What integer does this program print?
 Flag format: picoCTF{XXXXXXXX} -> (hex, lowercase, no 0x, and 32 bits. ex. 5614267 would be picoCTF{0055aabb})
 Use argument a: 4101707659
-File: [chall_2.S](https://challenge-files.picoctf.net/c_wily_courier/b331fbacb5f1bef5d88fb5a1ffead53e3183dfe5f72d3ce945ca843e6ae21750/chall_3.S)
+File: [chall_3.S](https://challenge-files.picoctf.net/c_wily_courier/b331fbacb5f1bef5d88fb5a1ffead53e3183dfe5f72d3ce945ca843e6ae21750/chall_3.S)
 
 ### 提示 (Hints)
 
